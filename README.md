@@ -20,5 +20,4 @@ This project visualizes various sorting algorithms like Bubble Sort, Quick Sort,
 - Tkinter library
 - Random library
 
-## License
-This project is open-source and licensed under the MIT License.
+
