@@ -1,0 +1,12 @@
+## YOLOv3 Weights
+
+This project does not include the YOLOv3 weights due to file size limits.
+
+### 🔗 Download Weights
+
+You can download the weights from this link:
+
+[https://pjreddie.com/media/files/yolov3.weights](https://pjreddie.com/media/files/yolov3.weights)
+
+Place the file in the `model/` folder like so:
+
